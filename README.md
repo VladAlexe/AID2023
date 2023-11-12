@@ -14,7 +14,7 @@ Romanian School Infrastructure Analysis - educational project Babeș - Bolyai Un
 
 
 
-                                                                                  **PAȘI**
+  **PAȘI**
 
 
 
