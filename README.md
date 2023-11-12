@@ -1,10 +1,12 @@
 # AID2023
 Romanian School Infrastructure Analysis - educational project Babeș - Bolyai University
-PROIECT FINAL – AID 2023 – Analiza infrastructurii școlare în România.
+
+
+**PROIECT FINAL – AID 2023 – Analiza infrastructurii școlare în România**
 
 
 
-Colaborare în Echipă: 
+**Colaborare în Echipă:** 
 
 -	Comunicați în mod regulat progresul, împărtășiți idei și abordări, și discutați împreună orice provocări întâmpinate. Asigurați-vă că fiecare membru al echipei este implicat și înțelege contribuția sa la proiect. Dacă un coleg nu se descurcă, ajutați-l.
 -	Codul va fi scris în Jupiter Notebooks. Utilizati secțiuni clare, folosiți Markdown și comentarii explicative pentru a face codul ușor de înțeles pentru ceilalți membri ai echipei.
@@ -12,19 +14,15 @@ Colaborare în Echipă:
 
 
 
+                                                                                  **PAȘI**
 
 
 
-
-PAȘI
-
-
-
-1.	Definirea problemei
+**1.	Definirea problemei**
 
 Toată echipa va colabora pentru definirea problemei și stabilirea obiectivului de cercetare. Este important să împărtășiți idei și să ajungeți la un consens asupra direcției proiectului.
 
-2.	 Colectarea și popularea bazei de date
+**2.	 Colectarea și popularea bazei de date**
 
 Studentul 1 și Studentul 2 vor colabora pentru a colecta, normaliza și popula baza de date.
 
@@ -43,9 +41,7 @@ Toată echipa:
 -	Realizați o sesiune de revizuire a codului pentru a identifica îmbunătățiri și pentru a garanta consistența datelor.
 
 
-
-
-3. Curățarea și pregătirea datelor
+**3. Curățarea și pregătirea datelor**
 
 Studentul 3:
 
@@ -61,7 +57,7 @@ Toată echipa:
 - Realizați o sesiune de revizuire a codului pentru a identifica îmbunătățiri și pentru a garanta consistența datelor.
 
 
-4. Analiza exploratorie a datelor
+**4. Analiza exploratorie a datelor**
 
 Studentul 4 :
 
@@ -75,7 +71,7 @@ Toată echipa:
 -	Asistați-vă colegul în formularea ipotezelor inițiale
 -	Realizați o sesiune de revizuire a codului pentru a identifica îmbunătățiri și pentru a garanta consistența datelor.
 
-5: Feature Engineering și Aplicarea unei metode statistice
+**5: Feature Engineering și Aplicarea unei metode statistice**
 
 Studentul 5:
 
