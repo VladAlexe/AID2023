@@ -1,0 +1,133 @@
+	- SCHOOL DETAILS
+	- MATERIAL RESOURCES
+	- ORGANIZATION
+	- BUILDINGS STATE
+	
+	
+	Structure
+		• details
+			○ idSchool
+			○ internalIdSchool
+			○ idParentSchool
+			○ schoolSocialLinks
+			○ idSchoolYear
+				§ orderBy
+				§ isFutureYear
+				§ isCurrentYear
+				§ dateTo
+				§ dateFrom
+				§ description
+				§ code
+				§ idSchoolYear
+			○ schoolYearDescription
+			○ code
+			○ siruesCode
+			○ longName
+			○ shortName
+			○ statut
+			○ isPj
+			○ fiscalCode
+			○ operatingMode
+			○ propertyForm
+			○ fundingForm
+			○ county
+			○ locality
+			○ street
+			○ streetNumber
+			○ postalCode
+			○ phoneNumber
+			○ faxNumber
+			○ email
+			○ schoolNumbers
+				§ idSchool
+				§ studyFormationsCount
+				§ studentsCount
+				§ personnelCount
+		• subunits (for each)
+			○ schoolId
+			○ code
+			○ name
+			○ locality
+			○ statut
+			○ pjUnit
+			○ fiscalCode
+		• organisation
+			○ idSchool
+			○ schoolLevels (for each)
+				§ id
+				§ idSchool
+				§ dateFrom
+				§ level
+				§ state
+			○ schoolStudyFormations (for each)
+				§ id
+				§ idSchool
+				§ sfName
+				§ sfLevel
+				§ studyFormationType
+				§ educationType
+				§ fundingForm
+				§ educationForm
+				§ teachingMode
+				§ teachingLanguage
+				§ teachingType
+				§ studentsNo
+		• materialresources
+			○ idSchool
+			○ schoolBuildings (for each)
+				§ id
+				§ idSchool
+				§ buildingCode
+				§ buildingDescription
+				§ builtSurface
+				§ heldSurface
+				§ constructionYear
+				§ propertyType
+				§ floorsNo
+				§ schoolInternalId
+				§ videoSurveillance
+				§ audioSurveillance
+				§ locality
+				§ street
+				§ streetNumber
+				§ postalCode
+				§ idPhoto
+			○ schoolClasses (for each)
+				§ id
+				§ idSchool
+				§ idBuilding
+				§ buildingName
+				§ code
+				§ name
+				§ roomType
+				§ surface
+				§ floor
+				§ seatsNo
+				§ computersNumber
+			○ schoolTransport (for each)
+				§ id
+				§ idSchool
+				§ property
+				§ servers
+				§ vehicleTyoe
+				§ seatsNo
+				§ acquisitionYear
+				§ driverType
+				§ itp
+				§ safety
+		• buildingstate
+			○ idSchool
+			○ schoolBuildingUtilities (for each)
+				§ id
+				§ idSchool
+				§ buildingDescription
+				§ runningWater
+				§ canalization
+				§ gas
+				§ electricity
+				§ heating
+				§ salubrity
+				§ centralHeating
+				§ toilet
+				§ dateFrom
+			○ schoolBuildingsState
