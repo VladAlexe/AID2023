@@ -4,6 +4,16 @@ Romanian School Infrastructure Analysis - educational project Babeș - Bolyai Un
 
 **PROIECT FINAL – AID 2023 – Analiza infrastructurii școlare în România**
 
+** Repartizare echipe**
+2 - buildingstate - schoolBuildingsState
+4 - organisation - schoolLevels /schoolStudyFormation
+5 - materialresources - schoolClasses/ school
+1 - materialresources - schoolBuildings
+3 - buildingstate - schoolBuildingUtilities
+
+- notele BAC
+- note capacitate
+
 
 
 **Colaborare în Echipă:** 
@@ -43,7 +53,7 @@ Toată echipa:
 
 **3. Curățarea și pregătirea datelor**
 
-Studentul 3:
+Studentul 3 & 4:
 
 -	Descarcă tabelele din baza de date
 -	Explorează datele descărcate și identifică problemele care necesită curățarea datelor
@@ -59,7 +69,7 @@ Toată echipa:
 
 **4. Analiza exploratorie a datelor**
 
-Studentul 4 :
+Studentul 5 & 4 :
 
 -	Descarcă din baza de date tabelul încărcat la punctul 3.
 -	Creează vizualizări și statistici descriptive relevante pentru a evidenția tendințele și distribuțiile în date.
@@ -73,7 +83,7 @@ Toată echipa:
 
 **5: Feature Engineering și Aplicarea unei metode statistice**
 
-Studentul 5:
+Studentul 6:
 
 
 -	Identifică variabilele relevante și construiește noi caracteristici (features) care pot îmbunătăți performanța analizei.
