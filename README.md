@@ -5,11 +5,11 @@ Romanian School Infrastructure Analysis - educational project Babeș - Bolyai Un
 **PROIECT FINAL – AID 2023 – Analiza infrastructurii școlare în România**
 
 ** Repartizare echipe**
-2 - buildingstate - schoolBuildingsState
-4 - organisation - schoolLevels /schoolStudyFormation
-5 - materialresources - schoolClasses/ school
-1 - materialresources - schoolBuildings
-3 - buildingstate - schoolBuildingUtilities
+- 2 - buildingstate - schoolBuildingsState
+- 4 - organisation - schoolLevels /schoolStudyFormation
+- 5 - materialresources - schoolClasses/ school
+- 1 - materialresources - schoolBuildings
+- 3 - buildingstate - schoolBuildingUtilities
 
 - notele BAC
 - note capacitate
