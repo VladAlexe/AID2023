@@ -1,6 +1,6 @@
 # AID2023
-Romanian School Infrastructure Analysis - educational project Babeș - Bolyai University
-
+Romanian School Infrastructure Analysis - educational project, The Faculty of Sociology and Social Work, Babeș-Bolyai University
+ADC 2023
 
 **PROIECT FINAL – AID 2023 – Analiza infrastructurii școlare în România**
 
@@ -10,11 +10,15 @@ Romanian School Infrastructure Analysis - educational project Babeș - Bolyai Un
 - Team 2 - buildingstate - schoolBuildingsState
 - Team 3 - buildingstate - schoolBuildingUtilities
 - Team 4 - organisation - schoolLevels /schoolStudyFormation
-- Team 5 - materialresources - schoolClasses/ school
+- Team 5 - materialresources - schoolClasses/ schoolTransport
 
 
+Date alternative
 - notele BAC
 - note capacitate
+- populatia Romaniei pe UAT-uri
+- IDUL 2018
+- alti indicatori socio-economici
 
 
 
